@@ -1,0 +1,10 @@
+# # TimeZoneModel
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** | Specifies the ID of the time zone.&lt;p&gt;Possible values:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;b&gt;America/Juneau&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;America/Los_Angeles&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;America/Denver&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;America/Chicago&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;America/New_York&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-12:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-11:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-10:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-09:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-08:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-07:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-06:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-05:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-04:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-03:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-02:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC-01:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+00:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+01:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+02:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+03:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+04:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+05:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+06:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+07:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+08:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+09:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+10:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+11:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+12:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+13:00&lt;/b&gt;&lt;/li&gt; &lt;li&gt;&lt;b&gt;UTC+14:00&lt;/b&gt;&lt;/li&gt; &lt;/ul&gt; | [readonly]
+**name** | **string** | Specifies the display name of the time zone. | [readonly]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
