@@ -1,6 +1,7 @@
 {
     "name": "karlozadro/telgoritm-php",
     "description": "Telgorithm PHP API",
+    "type": "library",
     "keywords": [
         "openapitools",
         "openapi-generator",
